@@ -9,8 +9,8 @@ function searching() {
         searchesJson={
             baidu: {color: 'blue', url: 'https://www.baidu.com/s?wd=', img: 'https://www.baidu.com/favicon.ico'},
             google: {color: 'green', url: 'https://www.google.com/search?q=', img: 'https://raw.githubusercontent.com/ChuishenX/cdn/main/favicon.ico'},
-            sogou: {color: 'magenta', url: 'https://www.sogou.com/web?query=', img: 'https:///www.sogou.com/images/logo/new/favicon.ico?v=4'},
-            S360: {color: 'lime', url: 'https://www.so.com/s?q=', img: 'https://s2.ssl.qhimg.com/static/121a1737750aa53d.ico'},
+            // sogou: {color: 'magenta', url: 'https://www.sogou.com/web?query=', img: 'https:///www.sogou.com/images/logo/new/favicon.ico?v=4'},
+            // S360: {color: 'lime', url: 'https://www.so.com/s?q=', img: 'https://s2.ssl.qhimg.com/static/121a1737750aa53d.ico'},
             bing: {color: 'gold', url: 'https://cn.bing.com/search?q=', img: 'https://cn.bing.com/sa/simg/favicon-trans-bg-blue-mg.ico'},
             github: {color: 'black', url: 'https://github.com/search?q=', img: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png'},
             yandex: {color: 'crimson', url: 'https://yandex.com/search/?text=', img: 'https://yastatic.net/s3/home-static/_/7c/7ccfee6f1e81b14c5bef535d1ad7b7e0.png'}
