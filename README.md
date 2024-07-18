@@ -1,6 +1,6 @@
 # SearchButton
 
-An HTML tag definition of my search tag.
+A definition of my search tag.
 
 ## Why?
 Because most of us do not want to bother with someone asking stupid questions, we would like to throw him 
